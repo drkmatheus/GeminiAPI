@@ -5,7 +5,7 @@ out/
 !**/src/test/**/out/
 .env
 GeminiAPI.iml
-saida.txt
+src/saida.txt
 
 ### Eclipse ###
 .apt_generated
