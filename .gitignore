@@ -3,6 +3,9 @@ out/
 /.idea
 !**/src/main/**/out/
 !**/src/test/**/out/
+.env
+GeminiAPI.iml
+saida.txt
 
 ### Eclipse ###
 .apt_generated
@@ -28,7 +31,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
-.env
-GeminiAPI.iml
-saida.txt
